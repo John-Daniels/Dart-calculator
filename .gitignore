@@ -1,0 +1,7 @@
+# Files and directories created by pub.
+.dart_tool/
+.packages
+.snapshot/
+# Conventional directory for build output.
+# build/
+
